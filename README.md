@@ -105,16 +105,6 @@ This script outputs metrics such as sub-pixel accuracy, FPS, resource usage, and
 
 ---
 
-### **Contributing**
-Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request. Refer to `CONTRIBUTING.md` for detailed guidelines.
-
----
-
-### **License**
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
 ### **Contact**
 For questions or feedback, reach out to **[Priyanshu Bharadwaj]** at **[priyanshubharadwaj38@gmail.com]** or create an issue on GitHub.
 

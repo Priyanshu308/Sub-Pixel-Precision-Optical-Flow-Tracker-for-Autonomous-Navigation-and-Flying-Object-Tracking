@@ -116,7 +116,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 ### **Contact**
-For questions or feedback, reach out to **[Your Name]** at **[Your Email]** or create an issue on GitHub.
+For questions or feedback, reach out to **[Priyanshu Bharadwaj]** at **[priyanshubharadwaj38@gmail.com]** or create an issue on GitHub.
 
 ---
 
